@@ -1,4 +1,4 @@
-baseURL = "https://jayplin.github.io/personal-website/"
+baseURL = "https://jannikschroeer.de/"
 languageCode = "en-us"
 title = "Hi, I'm Jannik"
 theme = "hugo-uilite"
