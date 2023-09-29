@@ -2,14 +2,14 @@
   "title": "Experience",
   "experience": [
     {
-      "timeperiod": "Aug 2017 - Sep 2020",
-      "company": "SAP SE Germany",
+      "timeperiod": "Aug 2017 - Present",
+      "company": "SAP SE",
       "website": "https://www.sap.com",
-      "description": "Developing in different areas as fullstack developer (ERP, Multi-Tenancy, IoT, Digital Farming, Innovation Management with Design Thinking). "
+      "description": "Developing in different areas as fullstack developer (ERP, Data Migration, Digital Farming). "
     },
     {
-      "timeperiod": "Nov 2020 - Present",
-      "company": "SAP Portugal",
+      "timeperiod": "Oct 2023 - Present",
+      "company": "ISCTE ",
       "website": "https://www.sap.com",
       "description": "Working on a data migration framework as a fullstack developer."
     }
